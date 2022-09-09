@@ -1,0 +1,60 @@
+C:\Users\Mulham\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\bin\Debug\net6.0\ATM.exe
+C:\Users\Mulham\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\bin\Debug\net6.0\ATM.deps.json
+C:\Users\Mulham\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\bin\Debug\net6.0\ATM.runtimeconfig.json
+C:\Users\Mulham\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\bin\Debug\net6.0\ATM.dll
+C:\Users\Mulham\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\bin\Debug\net6.0\ref\ATM.dll
+C:\Users\Mulham\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\bin\Debug\net6.0\ATM.pdb
+C:\Users\Mulham\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.csproj.AssemblyReference.cache
+C:\Users\Mulham\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mulham\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.AssemblyInfoInputs.cache
+C:\Users\Mulham\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.AssemblyInfo.cs
+C:\Users\Mulham\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Mulham\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.dll
+C:\Users\Mulham\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\obj\Debug\net6.0\ref\ATM.dll
+C:\Users\Mulham\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.pdb
+C:\Users\Mulham\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.genruntimeconfig.cache
+C:\Users\HP\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\bin\Debug\net6.0\ATM.exe
+C:\Users\HP\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\bin\Debug\net6.0\ATM.deps.json
+C:\Users\HP\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\bin\Debug\net6.0\ATM.runtimeconfig.json
+C:\Users\HP\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\bin\Debug\net6.0\ATM.dll
+C:\Users\HP\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\bin\Debug\net6.0\ref\ATM.dll
+C:\Users\HP\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\bin\Debug\net6.0\ATM.pdb
+C:\Users\HP\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.AssemblyInfo.cs
+C:\Users\HP\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.dll
+C:\Users\HP\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\obj\Debug\net6.0\ref\ATM.dll
+C:\Users\HP\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.pdb
+C:\Users\HP\OneDrive - HTL Krems\c#pro\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.genruntimeconfig.cache
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATM\ATM\bin\Debug\net6.0\ATM.exe
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATM\ATM\bin\Debug\net6.0\ATM.deps.json
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATM\ATM\bin\Debug\net6.0\ATM.runtimeconfig.json
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATM\ATM\bin\Debug\net6.0\ATM.dll
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATM\ATM\bin\Debug\net6.0\ATM.pdb
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.csproj.AssemblyReference.cache
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.AssemblyInfoInputs.cache
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.AssemblyInfo.cs
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.dll
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATM\ATM\obj\Debug\net6.0\refint\ATM.dll
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.pdb
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATM\ATM\obj\Debug\net6.0\ATM.genruntimeconfig.cache
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATM\ATM\obj\Debug\net6.0\ref\ATM.dll
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATMOLD\ATM\bin\Debug\net6.0\ATM.exe
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATMOLD\ATM\bin\Debug\net6.0\ATM.deps.json
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATMOLD\ATM\bin\Debug\net6.0\ATM.runtimeconfig.json
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATMOLD\ATM\bin\Debug\net6.0\ATM.dll
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATMOLD\ATM\bin\Debug\net6.0\ATM.pdb
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATMOLD\ATM\obj\Debug\net6.0\ATM.csproj.AssemblyReference.cache
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATMOLD\ATM\obj\Debug\net6.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATMOLD\ATM\obj\Debug\net6.0\ATM.AssemblyInfoInputs.cache
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATMOLD\ATM\obj\Debug\net6.0\ATM.AssemblyInfo.cs
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATMOLD\ATM\obj\Debug\net6.0\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATMOLD\ATM\obj\Debug\net6.0\ATM.dll
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATMOLD\ATM\obj\Debug\net6.0\refint\ATM.dll
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATMOLD\ATM\obj\Debug\net6.0\ATM.pdb
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATMOLD\ATM\obj\Debug\net6.0\ATM.genruntimeconfig.cache
+C:\Users\Mulhamsth\Bitbucket\myprojects\ATMOLD\ATM\obj\Debug\net6.0\ref\ATM.dll

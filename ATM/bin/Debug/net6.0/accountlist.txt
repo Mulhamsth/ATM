@@ -1,0 +1,5 @@
+cris	1234	100
+Mulham	mulsth	0
+Clemens	123456	300
+Morhaf	mor	50
+Marcin	855632	10
